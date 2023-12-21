@@ -1,5 +1,5 @@
 # Dự án Cuối kỳ môn Học máy
-Thành viên: \\
+Thành viên: 
 1. Nguyễn Thái Hòa _ 52100413
 2. Trần Thị Anh Thư _ 52100489
 3. Phan Thị Thùy Linh _ 52100697
