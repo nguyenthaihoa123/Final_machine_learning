@@ -10,5 +10,5 @@ Giới thiệu và triển khai ví dụ:
 2. Continual Learning và Test Production
 
 ## Part 2
-Nhóm chúng em chọn bài toán đó là dự đoán khả năng mắc bệnh đau tim của bệnh nhân dựa trên tập dữ liệu heart.csv.
+Nhóm chúng em chọn bài toán đó là dự đoán khả năng mắc bệnh đau tim của bệnh nhân dựa trên tập dữ liệu heart.csv. 
 Giải quyết bài toán bằng các mô hình khác nhau và cùng nhau tối ưu hóa và giải quyết các vấn đề mà mô hình gặp phải.
